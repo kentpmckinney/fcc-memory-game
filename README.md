@@ -1,3 +1,4 @@
+<!-- Category: FreeCodeCamp;Games;HTML/CSS/JS -->
 # Memory Game
 
 description
